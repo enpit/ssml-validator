@@ -1,5 +1,6 @@
 # ssml-validator
-Automatically replaces invalid characters from a given SSML string
+Automatically replaces invalid characters from a given SSML string.
+Useful when creating a bot for Amazon's Alexa, which will refuse to speak when certain characters are contained in the string that you want her to read.
 
 ## API
 
