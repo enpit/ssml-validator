@@ -1,0 +1,28 @@
+{
+  "name": "ssml-validator",
+  "version": "0.0.1",
+  "description": "Automatically replaces invalid characters from a given SSML string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enpit/ssml-validator.git"
+  },
+  "keywords": [
+    "ssml",
+    "alexa",
+    "validator"
+  ],
+  "author": "Janis Krasemann <janis.krasemann@enpit.de> (http://www.enpit.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enpit/ssml-validator/issues"
+  },
+  "homepage": "https://github.com/enpit/ssml-validator#readme",
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-janiskra": "^2.0.0"
+  }
+}
